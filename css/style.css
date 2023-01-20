@@ -9,6 +9,10 @@ h1{
     font-size: 30px;
 }
 
+h2{
+    font-size: 25px;
+}
+
 p{
     font-size: 20px;
 }
@@ -49,4 +53,20 @@ a.dead-link:hover{
 
 span#ghost{
     opacity: 0.4;
+}
+
+.side{
+   /*  text-align: center; */
+    color: blue;
+
+}
+#right{
+    position: fixed;
+    right: 100px;
+    rotate: 270deg;
+}
+#left{
+    position: fixed;
+    left: 100px;
+    rotate: 90deg;
 }
