@@ -43,8 +43,7 @@ p{
 }
 .title a.paths{
     left: 78%;
-    top: 30px;
-    rotate: 22deg;
+    top: 40px;
 }
 
 a.dead-link:hover{
